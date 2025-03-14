@@ -1,0 +1,13 @@
+server:
+  port: 8087 # Le port où Eureka va fonctionner
+
+eureka:
+  client:
+    register-with-eureka: false # Le serveur ne s?enregistre pas lui-même
+    fetch-registry: false # Le serveur ne cherche pas d?autres registres
+  instance:
+    hostname: localhost
+
+spring:
+  application:
+    name: eureka-server

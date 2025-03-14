@@ -1,0 +1,17 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-21T21:01:22.746Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-21T21:04:53.955Z"}
+{"level":"info","message":"Bid 67b8eadaddba5026c8eb483d accepted for product undefined","timestamp":"2025-02-21T21:07:51.074Z"}
+{"level":"info","message":"Auction closed for product 507f1f77bcf86cd799439011. Winner: 507f1f77bcf86cd799439012","timestamp":"2025-02-22T00:14:04.165Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T07:47:33.221Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T07:53:55.939Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T08:11:43.817Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T08:35:09.209Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T08:43:45.596Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T15:01:48.911Z"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \":bidId\" (type string) at path \"_id\" for model \"Bid\"","name":"CastError","path":"_id","reason":{},"stringValue":"\":bidId\"","value":":bidId","valueType":"string"}
+{"level":"info","message":"Bid 67b9e8b6de4936d667b50dc0 accepted for product undefined","timestamp":"2025-02-22T15:11:25.193Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T15:38:04.617Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T16:00:59.308Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T16:03:03.333Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-22T21:39:32.947Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-23T07:23:32.402Z"}
